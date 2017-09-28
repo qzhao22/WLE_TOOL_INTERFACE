@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1476825251021.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BE324F85",
+    "lastKnownWriteTime" : 1476823884,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "xf4hn6gee3",
+        "caption" : "TargAnnHP",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=TargAnnHP&cache_key=xf4hn6gee3",
+        "displayedObservations" : 35,
+        "environment" : "",
+        "object" : "TargAnnHP",
+        "totalObservations" : 35,
+        "variables" : 3
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

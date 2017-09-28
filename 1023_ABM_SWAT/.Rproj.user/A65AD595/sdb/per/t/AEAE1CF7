@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1475616660608.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AEAE1CF7",
+    "lastKnownWriteTime" : 31525674140565611,
+    "last_content_update" : 1475616660608,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "gimeg9ripz",
+        "caption" : "AllEcoTargets",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=AllEcoTargets&cache_key=gimeg9ripz",
+        "displayedObservations" : 621,
+        "environment" : "",
+        "object" : "AllEcoTargets",
+        "totalObservations" : 621,
+        "variables" : 3
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

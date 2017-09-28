@@ -1,0 +1,2 @@
+whoami
+Rscript ./1023_ABM_SWAT/ABM_SWAT_1023.R

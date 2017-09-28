@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1476826609954.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "316FB372",
+    "lastKnownWriteTime" : 34058936045666383,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "uf2ccdtz6v",
+        "caption" : "res_ini",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=res_ini&cache_key=uf2ccdtz6v",
+        "displayedObservations" : "35",
+        "environment" : "",
+        "object" : "res_ini",
+        "totalObservations" : "35",
+        "variables" : "46"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

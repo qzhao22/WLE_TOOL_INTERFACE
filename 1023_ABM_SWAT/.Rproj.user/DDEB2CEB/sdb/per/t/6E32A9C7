@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1476826837887.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6E32A9C7",
+    "lastKnownWriteTime" : 34058936045666383,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "l1h11egx8v",
+        "caption" : "flow_mekong",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=flow_mekong&cache_key=l1h11egx8v",
+        "displayedObservations" : "9131",
+        "environment" : "",
+        "object" : "flow_mekong",
+        "totalObservations" : "9131",
+        "variables" : "291"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

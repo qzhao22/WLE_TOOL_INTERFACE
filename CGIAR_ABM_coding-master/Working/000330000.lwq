@@ -1,0 +1,28 @@
+Reservoir water quality data:           .lwq file Subbasin 33 11/5/2015 12:00:00 AM ARCGIS-SWAT - SWAT interface AV
+Nutrient information:
+               1    | IRES1 : Beginning month of mid-year nutrient settling period
+               1    | IRES2 : Ending month of mid-year nutrient settling period
+          10.000    | PSETLR1 : Phosphorus settling rate in reservoir for months IRES1 through IRES2 [m/year]
+          10.000    | PSETLR2 : Phosphorus settling rate in reservoir for months other than IRES1-IRES2 [m/year]
+           5.500    | NSETLR1 : Nitrogen settling rate in reservoir for months IRES1 through IRES2 [m/year]
+           5.500    | NSETLR2 : Nitrogen settling rate in reservoir for months other than IRES1-IRES2 [m/year]
+           1.000    | CHLAR : Chlorophyll a production coefficient for reservoir
+           1.000    | SECCIR : Water clarity coefficient for the reservoir
+           0.000    | RES_ORGP : Initial concentration of organic P in reservoir [mg P/l]
+           0.000    | RES_SOLP : Initial concentration of soluble P in reservoir [mg P/l] 
+           0.000    | RES_ORGN : Initial concentration of organic N in reservoir [mg N/l]
+           0.000    | RES_NO3 : Initial concentration of NO3-N in reservoir [mg N/L]
+           0.000    | RES_NH3 : Initial concentration of NH3-N in reservoir [mg N/l]
+           0.000    | RES_NO2 : Initial concentration of NO2-N in reservoir [mg N/l]
+Pesticide information:
+           0.000    | LKPST_CONC : Initial pesticide concentration in the lake water for the first pesticide listed in file.cio. While up to ten pesticides may be applied in a SWAT simulation, only one pesticide (the first one listed in the file.cio) is routed through the reach. (mg/m3)
+           0.007    | LKPST_REA : Reaction coefficient of the pesticide in lake water [day-1]
+           0.010    | LKPST_VOL : Volatilization coefficient of the pesticide from the lake water [m/day]
+           0.000    | LKPST_KOC : Partition coefficient [m3/day]
+           1.000    | LKPST_STL : Settling velocity of pesticide sorbed to sediment [m/day]
+           0.002    | LKPST_RSP : Resuspension velocity of pesticide sorbed to sediment [m/day]
+           0.001    | LKPST_MIX : Mixing velocity [m/day]
+           0.000    | LKPST_CONC : Initial pesticide concentration in the lake bottom sediments [mg/m3]
+           0.050    | LKPST_REA : Reaction coefficient of pesticide in lake bottom sediment [day-1]
+           0.002    | LKPST_BRY : Burial velocity of pesticide in lake bottom sediment [m/day]
+           0.030    | LKPST_ACT : Depth of active sediment layer in lake [m]

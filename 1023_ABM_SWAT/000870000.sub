@@ -1,0 +1,68 @@
+ .sub file Subbasin: 87 5/31/2016 12:00:00 AM ArcSWAT 2012.10_0.14
+      123.455117    | SUB_KM : Subbasin area [km2]
+
+Climate in subbasin
+       18.079872    | LATITUDE : Latitude of subbasin [degrees]
+          157.97    | ELEV : Elevation of subbasin [m]
+              87    | IRGAGE: precip gage data used in subbasin
+              84    | ITGAGE: temp gage data used in subbasin
+              84    | ISGAGE: solar radiation gage data used in subbasin
+              84    | IHGAGE: relative humidity gage data used in subbasin
+              84    | IWGAGE: wind speed gage data used in subbasin
+000870000.wgn       | WGNFILE: name of weather generator data file
+               1    | FCST_REG: Region number used to assign forecast data to the subbasin
+Elevation Bands
+| ELEVB: Elevation at center of elevation bands [m]
+   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000
+| ELEVB_FR: Fraction of subbasin area within elevation band
+   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000   0.000
+| SNOEB: Initial snow water content in elevation band [mm]
+     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0     0.0
+           0.000    | PLAPS : Precipitation lapse rate [mm/km]
+           0.000    | TLAPS : Temperature lapse rate [°C/km]
+           0.000    | SNO_SUB : Initial snow water content [mm]
+Tributary Channels
+          14.942    | CH_L1 : Longest tributary channel length [km]
+           0.000    | CH_S1 : Average slope of tributary channel [m/m]
+          23.200    | CH_W1 : Average width of tributary channel [m]
+           0.000    | CH_K1 : Effective hydraulic conductivity in tributary channel [mm/hr]
+           0.014    | CH_N1 : Manning's "n" value for the tributary channels
+Impoundments
+000870000.pnd       | PNDFILE: name of subbasin impoundment file
+Consumptive Water Use
+000870000.wus       | WUSFILE: name of subbasin water use file
+Climate Change
+         330.000    | CO2 : Carbon dioxide concentration [ppmv]
+| RFINC:  Climate change monthly rainfall adjustment (January - June)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| RFINC:  Climate change monthly rainfall adjustment (July - December)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| TMPINC: Climate change monthly temperature adjustment (January - June)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| TMPINC: Climate change monthly temperature adjustment (July - December)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| RADINC: Climate change monthly radiation adjustment (January - June)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| RADINC: Climate change monthly radiation adjustment (July - December)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| HUMINC: Climate change monthly humidity adjustment (January - June)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| HUMINC: Climate change monthly humidity adjustment (July - December)
+   0.000   0.000   0.000   0.000   0.000   0.000
+| HRU data
+               7    | HRUTOT : Total number of HRUs modeled in subbasin
+
+HRU: Depressional Storage/Pothole
+
+Floodplain
+
+HRU: Riparian
+
+HRU: General
+000870001.hru000870001.mgt000870001.sol000870001.chm 000870001.gw             000870001.sep
+000870002.hru000870002.mgt000870002.sol000870002.chm 000870002.gw             000870002.sep
+000870003.hru000870003.mgt000870003.sol000870003.chm 000870003.gw             000870003.sep
+000870004.hru000870004.mgt000870004.sol000870004.chm 000870004.gw             000870004.sep
+000870005.hru000870005.mgt000870005.sol000870005.chm 000870005.gw             000870005.sep
+000870006.hru000870006.mgt000870006.sol000870006.chm 000870006.gw             000870006.sep
+000870007.hru000870007.mgt000870007.sol000870007.chm 000870007.gw             000870007.sep

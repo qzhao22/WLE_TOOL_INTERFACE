@@ -1,0 +1,377 @@
+SUBBASIN	HRU	LANDUSE	HRU area as a fraction of sbbain area (0-1)	Planting date (calendar: 0-365/366)	Potential heat unit to achieve maturity	Irrigation threshold (0-1)	Irrigation effcieincy (0-1)
+1	1	Irrigated rice	0	1	1200	0.9	0.5
+1	2	Rainfed rice	0	160	1200	-99	-99
+1	3	Irrigated upland crops	0.001566316	1	1700	0.8	0.5
+1	4	Rainfed upland crops	0.008828279	120	1700	-99	-99
+1	5	Forestry	0.326182787	-99	-99	-99	-99
+1	6	Grassland	0.61800976	-99	-99	-99	-99
+1	7	Urban	9.87236E-05	-99	-99	-99	-99
+1	8	Wetland	0.045314134	-99	-99	-99	-99
+2	1	Irrigated rice	0	1	1200	0.9	0.5
+2	2	Rainfed rice	0	160	1200	-99	-99
+2	3	Irrigated upland crops	0.003314402	1	1700	0.8	0.5
+2	4	Rainfed upland crops	0.012132242	120	1700	-99	-99
+2	5	Forestry	0.519166909	-99	-99	-99	-99
+2	6	Grassland	0.43914529	-99	-99	-99	-99
+2	7	Urban	4.63625E-05	-99	-99	-99	-99
+2	8	Wetland	0.026194794	-99	-99	-99	-99
+3	1	Irrigated rice	1.80257E-05	1	1200	0.9	0.5
+3	2	Rainfed rice	1.21436E-05	160	1200	-99	-99
+3	3	Irrigated upland crops	0.004969288	1	1700	0.8	0.5
+3	4	Rainfed upland crops	0.027018065	120	1700	-99	-99
+3	5	Forestry	0.208304182	-99	-99	-99	-99
+3	6	Grassland	0.742114428	-99	-99	-99	-99
+3	7	Urban	0.000164148	-99	-99	-99	-99
+3	8	Wetland	0.017399719	-99	-99	-99	-99
+4	1	Irrigated rice	0.002632583	1	1200	0.9	0.5
+4	2	Rainfed rice	0.001104491	160	1200	-99	-99
+4	3	Irrigated upland crops	0	1	1700	0.8	0.5
+4	4	Rainfed upland crops	0.073946861	120	1700	-99	-99
+4	5	Forestry	0.919472336	-99	-99	-99	-99
+4	6	Grassland	0.002843729	-99	-99	-99	-99
+4	7	Urban	0	-99	-99	-99	-99
+4	8	Wetland	0	-99	-99	-99	-99
+5	1	Irrigated rice	0.002132055	1	1200	0.9	0.5
+5	2	Rainfed rice	0.001225677	160	1200	-99	-99
+5	3	Irrigated upland crops	0	1	1700	0.8	0.5
+5	4	Rainfed upland crops	0.05533166	120	1700	-99	-99
+5	5	Forestry	0.941310608	-99	-99	-99	-99
+5	6	Grassland	0	-99	-99	-99	-99
+5	7	Urban	0	-99	-99	-99	-99
+5	8	Wetland	0	-99	-99	-99	-99
+6	1	Irrigated rice	0.015511932	1	1200	0.9	0.5
+6	2	Rainfed rice	0.001624735	160	1200	-99	-99
+6	3	Irrigated upland crops	0	1	1700	0.8	0.5
+6	4	Rainfed upland crops	0.090156432	120	1700	-99	-99
+6	5	Forestry	0.879488445	-99	-99	-99	-99
+6	6	Grassland	0.013064753	-99	-99	-99	-99
+6	7	Urban	0	-99	-99	-99	-99
+6	8	Wetland	0.000153703	-99	-99	-99	-99
+7	1	Irrigated rice	0.022455471	1	1200	0.9	0.5
+7	2	Rainfed rice	0.0062696	160	1200	-99	-99
+7	3	Irrigated upland crops	0	1	1700	0.8	0.5
+7	4	Rainfed upland crops	0.135621553	120	1700	-99	-99
+7	5	Forestry	0.834746863	-99	-99	-99	-99
+7	6	Grassland	0.000906512	-99	-99	-99	-99
+7	7	Urban	0	-99	-99	-99	-99
+7	8	Wetland	0	-99	-99	-99	-99
+8	1	Irrigated rice	0.016974436	1	1200	0.9	0.5
+8	2	Rainfed rice	0.001783088	160	1200	-99	-99
+8	3	Irrigated upland crops	0	1	1700	0.8	0.5
+8	4	Rainfed upland crops	0.080670408	120	1700	-99	-99
+8	5	Forestry	0.900572068	-99	-99	-99	-99
+8	6	Grassland	0	-99	-99	-99	-99
+8	7	Urban	0	-99	-99	-99	-99
+8	8	Wetland	0	-99	-99	-99	-99
+9	1	Irrigated rice	0.035147251	1	1200	0.9	0.5
+9	2	Rainfed rice	0.003355115	160	1200	-99	-99
+9	3	Irrigated upland crops	0.001036419	1	1700	0.8	0.5
+9	4	Rainfed upland crops	0.052062799	120	1700	-99	-99
+9	5	Forestry	0.907548196	-99	-99	-99	-99
+9	6	Grassland	0.000850219	-99	-99	-99	-99
+9	7	Urban	0	-99	-99	-99	-99
+9	8	Wetland	0	-99	-99	-99	-99
+10	1	Irrigated rice	0.021724353	1	1200	0.9	0.5
+10	2	Rainfed rice	0.019994056	160	1200	-99	-99
+10	3	Irrigated upland crops	0.002025017	1	1700	0.8	0.5
+10	4	Rainfed upland crops	0.071402351	120	1700	-99	-99
+10	5	Forestry	0.884653097	-99	-99	-99	-99
+10	6	Grassland	0.000201126	-99	-99	-99	-99
+10	7	Urban	0	-99	-99	-99	-99
+10	8	Wetland	0	-99	-99	-99	-99
+11	1	Irrigated rice	0.014720795	1	1200	0.9	0.5
+11	2	Rainfed rice	0.022731289	160	1200	-99	-99
+11	3	Irrigated upland crops	0.003882501	1	1700	0.8	0.5
+11	4	Rainfed upland crops	0.062836746	120	1700	-99	-99
+11	5	Forestry	0.895828669	-99	-99	-99	-99
+11	6	Grassland	0	-99	-99	-99	-99
+11	7	Urban	0	-99	-99	-99	-99
+11	8	Wetland	0	-99	-99	-99	-99
+12	1	Irrigated rice	0.130715768	1	1200	0.9	0.5
+12	2	Rainfed rice	0.035750556	160	1200	-99	-99
+12	3	Irrigated upland crops	0.005377256	1	1700	0.8	0.5
+12	4	Rainfed upland crops	0.104393562	120	1700	-99	-99
+12	5	Forestry	0.723305832	-99	-99	-99	-99
+12	6	Grassland	0.000457026	-99	-99	-99	-99
+12	7	Urban	0	-99	-99	-99	-99
+12	8	Wetland	0	-99	-99	-99	-99
+13	1	Irrigated rice	0.004791782	1	1200	0.9	0.5
+13	2	Rainfed rice	0.012361423	160	1200	-99	-99
+13	3	Irrigated upland crops	0.000391544	1	1700	0.8	0.5
+13	4	Rainfed upland crops	0.016172332	120	1700	-99	-99
+13	5	Forestry	0.966282919	-99	-99	-99	-99
+13	6	Grassland	0	-99	-99	-99	-99
+13	7	Urban	0	-99	-99	-99	-99
+13	8	Wetland	0	-99	-99	-99	-99
+14	1	Irrigated rice	0.010689463	1	1200	0.9	0.5
+14	2	Rainfed rice	0.017814649	160	1200	-99	-99
+14	3	Irrigated upland crops	0.000888581	1	1700	0.8	0.5
+14	4	Rainfed upland crops	0.035411068	120	1700	-99	-99
+14	5	Forestry	0.935196239	-99	-99	-99	-99
+14	6	Grassland	0	-99	-99	-99	-99
+14	7	Urban	0	-99	-99	-99	-99
+14	8	Wetland	0	-99	-99	-99	-99
+15	1	Irrigated rice	0	1	1200	0.9	0.5
+15	2	Rainfed rice	0	160	1200	-99	-99
+15	3	Irrigated upland crops	0	1	1700	0.8	0.5
+15	4	Rainfed upland crops	0	120	1700	-99	-99
+15	5	Forestry	1	-99	-99	-99	-99
+15	6	Grassland	0	-99	-99	-99	-99
+15	7	Urban	0	-99	-99	-99	-99
+15	8	Wetland	0	-99	-99	-99	-99
+16	1	Irrigated rice	0.009556713	1	1200	0.9	0.5
+16	2	Rainfed rice	0.008445712	160	1200	-99	-99
+16	3	Irrigated upland crops	0.002168447	1	1700	0.8	0.5
+16	4	Rainfed upland crops	0.019575805	120	1700	-99	-99
+16	5	Forestry	0.960253323	-99	-99	-99	-99
+16	6	Grassland	0	-99	-99	-99	-99
+16	7	Urban	0	-99	-99	-99	-99
+16	8	Wetland	0	-99	-99	-99	-99
+17	1	Irrigated rice	0.011313469	1	1200	0.9	0.5
+17	2	Rainfed rice	0.008045248	160	1200	-99	-99
+17	3	Irrigated upland crops	0.000863007	1	1700	0.8	0.5
+17	4	Rainfed upland crops	0.017104502	120	1700	-99	-99
+17	5	Forestry	0.962673775	-99	-99	-99	-99
+17	6	Grassland	0	-99	-99	-99	-99
+17	7	Urban	0	-99	-99	-99	-99
+17	8	Wetland	0	-99	-99	-99	-99
+18	1	Irrigated rice	0.003398785	1	1200	0.9	0.5
+18	2	Rainfed rice	0.024436352	160	1200	-99	-99
+18	3	Irrigated upland crops	0.000543063	1	1700	0.8	0.5
+18	4	Rainfed upland crops	0.046129808	120	1700	-99	-99
+18	5	Forestry	0.925491991	-99	-99	-99	-99
+18	6	Grassland	0	-99	-99	-99	-99
+18	7	Urban	0	-99	-99	-99	-99
+18	8	Wetland	0	-99	-99	-99	-99
+19	1	Irrigated rice	0.08285354	1	1200	0.9	0.5
+19	2	Rainfed rice	0.072346595	160	1200	-99	-99
+19	3	Irrigated upland crops	0.008397325	1	1700	0.8	0.5
+19	4	Rainfed upland crops	0.112796012	120	1700	-99	-99
+19	5	Forestry	0.722255706	-99	-99	-99	-99
+19	6	Grassland	0.001350822	-99	-99	-99	-99
+19	7	Urban	0	-99	-99	-99	-99
+19	8	Wetland	0	-99	-99	-99	-99
+20	1	Irrigated rice	0.027388166	1	1200	0.9	0.5
+20	2	Rainfed rice	0.017143693	160	1200	-99	-99
+20	3	Irrigated upland crops	0.006881971	1	1700	0.8	0.5
+20	4	Rainfed upland crops	0.011929531	120	1700	-99	-99
+20	5	Forestry	0.934839923	-99	-99	-99	-99
+20	6	Grassland	0.001816716	-99	-99	-99	-99
+20	7	Urban	0	-99	-99	-99	-99
+20	8	Wetland	0	-99	-99	-99	-99
+21	1	Irrigated rice	0.029561179	1	1200	0.9	0.5
+21	2	Rainfed rice	0.028465763	160	1200	-99	-99
+21	3	Irrigated upland crops	0.003193898	1	1700	0.8	0.5
+21	4	Rainfed upland crops	0.029266979	120	1700	-99	-99
+21	5	Forestry	0.908641938	-99	-99	-99	-99
+21	6	Grassland	0.000870242	-99	-99	-99	-99
+21	7	Urban	0	-99	-99	-99	-99
+21	8	Wetland	0	-99	-99	-99	-99
+22	1	Irrigated rice	0.049997114	1	1200	0.9	0.5
+22	2	Rainfed rice	0.077975845	160	1200	-99	-99
+22	3	Irrigated upland crops	0.002141544	1	1700	0.8	0.5
+22	4	Rainfed upland crops	0.056567963	120	1700	-99	-99
+22	5	Forestry	0.810964418	-99	-99	-99	-99
+22	6	Grassland	0.002327813	-99	-99	-99	-99
+22	7	Urban	2.53023E-05	-99	-99	-99	-99
+22	8	Wetland	0	-99	-99	-99	-99
+23	1	Irrigated rice	0.014713039	1	1200	0.9	0.5
+23	2	Rainfed rice	0.035609932	160	1200	-99	-99
+23	3	Irrigated upland crops	0.005628706	1	1700	0.8	0.5
+23	4	Rainfed upland crops	0.01584699	120	1700	-99	-99
+23	5	Forestry	0.927659285	-99	-99	-99	-99
+23	6	Grassland	0.000542047	-99	-99	-99	-99
+23	7	Urban	0	-99	-99	-99	-99
+23	8	Wetland	0	-99	-99	-99	-99
+24	1	Irrigated rice	0.008537067	1	1200	0.9	0.5
+24	2	Rainfed rice	0.043257389	160	1200	-99	-99
+24	3	Irrigated upland crops	0.001104136	1	1700	0.8	0.5
+24	4	Rainfed upland crops	0.047748326	120	1700	-99	-99
+24	5	Forestry	0.899353082	-99	-99	-99	-99
+24	6	Grassland	0	-99	-99	-99	-99
+24	7	Urban	0	-99	-99	-99	-99
+24	8	Wetland	0	-99	-99	-99	-99
+25	1	Irrigated rice	0	1	1200	0.9	0.5
+25	2	Rainfed rice	0.029875161	160	1200	-99	-99
+25	3	Irrigated upland crops	0	1	1700	0.8	0.5
+25	4	Rainfed upland crops	0.011593657	120	1700	-99	-99
+25	5	Forestry	0.958531181	-99	-99	-99	-99
+25	6	Grassland	0	-99	-99	-99	-99
+25	7	Urban	0	-99	-99	-99	-99
+25	8	Wetland	0	-99	-99	-99	-99
+26	1	Irrigated rice	0.124321985	1	1200	0.9	0.5
+26	2	Rainfed rice	0.151322415	160	1200	-99	-99
+26	3	Irrigated upland crops	0.001159267	1	1700	0.8	0.5
+26	4	Rainfed upland crops	0.149737215	120	1700	-99	-99
+26	5	Forestry	0.561649597	-99	-99	-99	-99
+26	6	Grassland	0.01180952	-99	-99	-99	-99
+26	7	Urban	0	-99	-99	-99	-99
+26	8	Wetland	0	-99	-99	-99	-99
+27	1	Irrigated rice	0.12587254	1	1200	0.9	0.5
+27	2	Rainfed rice	0.094727287	160	1200	-99	-99
+27	3	Irrigated upland crops	0.000729646	1	1700	0.8	0.5
+27	4	Rainfed upland crops	0.086327375	120	1700	-99	-99
+27	5	Forestry	0.679257106	-99	-99	-99	-99
+27	6	Grassland	0.013086046	-99	-99	-99	-99
+27	7	Urban	0	-99	-99	-99	-99
+27	8	Wetland	0	-99	-99	-99	-99
+28	1	Irrigated rice	0.095728126	1	1200	0.9	0.5
+28	2	Rainfed rice	0.235910561	160	1200	-99	-99
+28	3	Irrigated upland crops	0.000195908	1	1700	0.8	0.5
+28	4	Rainfed upland crops	0.167427349	120	1700	-99	-99
+28	5	Forestry	0.468063987	-99	-99	-99	-99
+28	6	Grassland	0.03267407	-99	-99	-99	-99
+28	7	Urban	0	-99	-99	-99	-99
+28	8	Wetland	0	-99	-99	-99	-99
+29	1	Irrigated rice	0	1	1200	0.9	0.5
+29	2	Rainfed rice	0	160	1200	-99	-99
+29	3	Irrigated upland crops	0	1	1700	0.8	0.5
+29	4	Rainfed upland crops	0.174749986	120	1700	-99	-99
+29	5	Forestry	0.825250014	-99	-99	-99	-99
+29	6	Grassland	0	-99	-99	-99	-99
+29	7	Urban	0	-99	-99	-99	-99
+29	8	Wetland	0	-99	-99	-99	-99
+30	1	Irrigated rice	0	1	1200	0.9	0.5
+30	2	Rainfed rice	0	160	1200	-99	-99
+30	3	Irrigated upland crops	0	1	1700	0.8	0.5
+30	4	Rainfed upland crops	0	120	1700	-99	-99
+30	5	Forestry	1	-99	-99	-99	-99
+30	6	Grassland	0	-99	-99	-99	-99
+30	7	Urban	0	-99	-99	-99	-99
+30	8	Wetland	0	-99	-99	-99	-99
+31	1	Irrigated rice	0.034051134	1	1200	0.9	0.5
+31	2	Rainfed rice	0.058638314	160	1200	-99	-99
+31	3	Irrigated upland crops	0.003662964	1	1700	0.8	0.5
+31	4	Rainfed upland crops	0.042416997	120	1700	-99	-99
+31	5	Forestry	0.846698839	-99	-99	-99	-99
+31	6	Grassland	0.014531753	-99	-99	-99	-99
+31	7	Urban	0	-99	-99	-99	-99
+31	8	Wetland	0	-99	-99	-99	-99
+32	1	Irrigated rice	0.022684868	1	1200	0.9	0.5
+32	2	Rainfed rice	0.021647928	160	1200	-99	-99
+32	3	Irrigated upland crops	0.003150204	1	1700	0.8	0.5
+32	4	Rainfed upland crops	0.013457113	120	1700	-99	-99
+32	5	Forestry	0.92020523	-99	-99	-99	-99
+32	6	Grassland	0.018854657	-99	-99	-99	-99
+32	7	Urban	0	-99	-99	-99	-99
+32	8	Wetland	0	-99	-99	-99	-99
+33	1	Irrigated rice	0.003274058	1	1200	0.9	0.5
+33	2	Rainfed rice	0.017157227	160	1200	-99	-99
+33	3	Irrigated upland crops	0.000706849	1	1700	0.8	0.5
+33	4	Rainfed upland crops	0.00698641	120	1700	-99	-99
+33	5	Forestry	0.964540547	-99	-99	-99	-99
+33	6	Grassland	0.007334909	-99	-99	-99	-99
+33	7	Urban	0	-99	-99	-99	-99
+33	8	Wetland	0	-99	-99	-99	-99
+34	1	Irrigated rice	0	1	1200	0.9	0.5
+34	2	Rainfed rice	0	160	1200	-99	-99
+34	3	Irrigated upland crops	0	1	1700	0.8	0.5
+34	4	Rainfed upland crops	0	120	1700	-99	-99
+34	5	Forestry	1	-99	-99	-99	-99
+34	6	Grassland	0	-99	-99	-99	-99
+34	7	Urban	0	-99	-99	-99	-99
+34	8	Wetland	0	-99	-99	-99	-99
+35	1	Irrigated rice	0.00266786	1	1200	0.9	0.5
+35	2	Rainfed rice	0.010506001	160	1200	-99	-99
+35	3	Irrigated upland crops	0.000998465	1	1700	0.8	0.5
+35	4	Rainfed upland crops	0.006950223	120	1700	-99	-99
+35	5	Forestry	0.978809732	-99	-99	-99	-99
+35	6	Grassland	6.7719E-05	-99	-99	-99	-99
+35	7	Urban	0	-99	-99	-99	-99
+35	8	Wetland	0	-99	-99	-99	-99
+36	1	Irrigated rice	0.015011745	1	1200	0.9	0.5
+36	2	Rainfed rice	0.010471394	160	1200	-99	-99
+36	3	Irrigated upland crops	0.028003988	1	1700	0.8	0.5
+36	4	Rainfed upland crops	0.053779699	120	1700	-99	-99
+36	5	Forestry	0.892579695	-99	-99	-99	-99
+36	6	Grassland	0.000153478	-99	-99	-99	-99
+36	7	Urban	0	-99	-99	-99	-99
+36	8	Wetland	0	-99	-99	-99	-99
+37	1	Irrigated rice	0.014782797	1	1200	0.9	0.5
+37	2	Rainfed rice	0.020044841	160	1200	-99	-99
+37	3	Irrigated upland crops	0.021362639	1	1700	0.8	0.5
+37	4	Rainfed upland crops	0.136398719	120	1700	-99	-99
+37	5	Forestry	0.806776883	-99	-99	-99	-99
+37	6	Grassland	0.00063412	-99	-99	-99	-99
+37	7	Urban	0	-99	-99	-99	-99
+37	8	Wetland	0	-99	-99	-99	-99
+38	1	Irrigated rice	0.001242889	1	1200	0.9	0.5
+38	2	Rainfed rice	0.034146234	160	1200	-99	-99
+38	3	Irrigated upland crops	0.000657023	1	1700	0.8	0.5
+38	4	Rainfed upland crops	0.012293688	120	1700	-99	-99
+38	5	Forestry	0.951660166	-99	-99	-99	-99
+38	6	Grassland	0	-99	-99	-99	-99
+38	7	Urban	0	-99	-99	-99	-99
+38	8	Wetland	0	-99	-99	-99	-99
+39	1	Irrigated rice	0	1	1200	0.9	0.5
+39	2	Rainfed rice	0	160	1200	-99	-99
+39	3	Irrigated upland crops	0	1	1700	0.8	0.5
+39	4	Rainfed upland crops	0	120	1700	-99	-99
+39	5	Forestry	1	-99	-99	-99	-99
+39	6	Grassland	0	-99	-99	-99	-99
+39	7	Urban	0	-99	-99	-99	-99
+39	8	Wetland	0	-99	-99	-99	-99
+40	1	Irrigated rice	0.000478119	1	1200	0.9	0.5
+40	2	Rainfed rice	0.025603568	160	1200	-99	-99
+40	3	Irrigated upland crops	0.00010193	1	1700	0.8	0.5
+40	4	Rainfed upland crops	0.010919242	120	1700	-99	-99
+40	5	Forestry	0.9578177	-99	-99	-99	-99
+40	6	Grassland	0.00507944	-99	-99	-99	-99
+40	7	Urban	0	-99	-99	-99	-99
+40	8	Wetland	0	-99	-99	-99	-99
+41	1	Irrigated rice	0.002969339	1	1200	0.9	0.5
+41	2	Rainfed rice	0.035330104	160	1200	-99	-99
+41	3	Irrigated upland crops	0.002425927	1	1700	0.8	0.5
+41	4	Rainfed upland crops	0.06984493	120	1700	-99	-99
+41	5	Forestry	0.885000877	-99	-99	-99	-99
+41	6	Grassland	0.004428822	-99	-99	-99	-99
+41	7	Urban	0	-99	-99	-99	-99
+41	8	Wetland	0	-99	-99	-99	-99
+42	1	Irrigated rice	0.03840696	1	1200	0.9	0.5
+42	2	Rainfed rice	0.176584397	160	1200	-99	-99
+42	3	Irrigated upland crops	0.001544398	1	1700	0.8	0.5
+42	4	Rainfed upland crops	0.15101708	120	1700	-99	-99
+42	5	Forestry	0.55169963	-99	-99	-99	-99
+42	6	Grassland	0.080747534	-99	-99	-99	-99
+42	7	Urban	0	-99	-99	-99	-99
+42	8	Wetland	0	-99	-99	-99	-99
+43	1	Irrigated rice	0.032993977	1	1200	0.9	0.5
+43	2	Rainfed rice	0.124730789	160	1200	-99	-99
+43	3	Irrigated upland crops	0.001702444	1	1700	0.8	0.5
+43	4	Rainfed upland crops	0.053767927	120	1700	-99	-99
+43	5	Forestry	0.751471286	-99	-99	-99	-99
+43	6	Grassland	0.035312997	-99	-99	-99	-99
+43	7	Urban	2.05787E-05	-99	-99	-99	-99
+43	8	Wetland	0	-99	-99	-99	-99
+44	1	Irrigated rice	0.004631224	1	1200	0.9	0.5
+44	2	Rainfed rice	0.052242619	160	1200	-99	-99
+44	3	Irrigated upland crops	9.89547E-05	1	1700	0.8	0.5
+44	4	Rainfed upland crops	0.019242842	120	1700	-99	-99
+44	5	Forestry	0.905174267	-99	-99	-99	-99
+44	6	Grassland	0.018610093	-99	-99	-99	-99
+44	7	Urban	0	-99	-99	-99	-99
+44	8	Wetland	0	-99	-99	-99	-99
+45	1	Irrigated rice	0.075029961	1	1200	0.9	0.5
+45	2	Rainfed rice	0.191912286	160	1200	-99	-99
+45	3	Irrigated upland crops	0.001497297	1	1700	0.8	0.5
+45	4	Rainfed upland crops	0.080045915	120	1700	-99	-99
+45	5	Forestry	0.346941912	-99	-99	-99	-99
+45	6	Grassland	0.304572629	-99	-99	-99	-99
+45	7	Urban	0	-99	-99	-99	-99
+45	8	Wetland	0	-99	-99	-99	-99
+46	1	Irrigated rice	0.098866646	1	1200	0.9	0.5
+46	2	Rainfed rice	0.452129118	160	1200	-99	-99
+46	3	Irrigated upland crops	0.000859078	1	1700	0.8	0.5
+46	4	Rainfed upland crops	0.066259873	120	1700	-99	-99
+46	5	Forestry	0.02573657	-99	-99	-99	-99
+46	6	Grassland	0.356148716	-99	-99	-99	-99
+46	7	Urban	0	-99	-99	-99	-99
+46	8	Wetland	0	-99	-99	-99	-99
+47	1	Irrigated rice	0.693997845	1	1200	0.9	0.5
+47	2	Rainfed rice	0.191824617	160	1200	-99	-99
+47	3	Irrigated upland crops	0.077075466	1	1700	0.8	0.5
+47	4	Rainfed upland crops	0.037102072	120	1700	-99	-99
+47	5	Forestry	6.8526E-17	-99	-99	-99	-99
+47	6	Grassland	2.86185E-17	-99	-99	-99	-99
+47	7	Urban	0	-99	-99	-99	-99
+47	8	Wetland	0	-99	-99	-99	-99

@@ -1,0 +1,11 @@
+Reservoir,lat,lon,subbasin (090715 setup),Reservoir name,Mean Annual Energy (GW),Note
+1,27.625964,99.018853,4,na,na,
+2,26.548199,99.103817,5,Huangdeng,8578,
+3,24.704222,100.091255,6,Xiawon,18207,
+4,22.053206,100.766478,8,Jinghong,5570,
+5,20.080122,102.177133,14,Luangprabang,5437,
+6,18.329425,101.522014,17,Pak Lay,6460,
+7,18.138282,103.096767,19,na,na,
+8,15.319953,105.618242,25,Latsua,2668,In SWAT (Hua's shapefile) this is located at lat: 15.322952 lon:105.524341
+9,13.575317,105.98345,33,Stung Treng,4870,
+10,13.551408,106.263841,38,Lower Sesan 2,2312,
